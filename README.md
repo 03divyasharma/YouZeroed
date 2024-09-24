@@ -9,4 +9,4 @@ A personalized math system that focuses on real-life applications can help peopl
 
 For progress in any field, great mathematicians are needed in every domain.
 
-- Divya Sharma
+-Divya Sharma
